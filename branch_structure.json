@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-123-feat-web3-real-time-soroban-rpc-event-streaming",
+    "feat/issue-123-feat-web3-real-time-soroban-rpc-event-streaming-r2",
+    "fix/issue-72-state-adaptive-transaction-polling-system",
+    "fix/issue-72-state-adaptive-transaction-polling-system-r2",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-123-feat-web3-real-time-soroban-rpc-event-streaming": "main",
+    "feat/issue-123-feat-web3-real-time-soroban-rpc-event-streaming-r2": "feat/issue-123-feat-web3-real-time-soroban-rpc-event-streaming",
+    "fix/issue-72-state-adaptive-transaction-polling-system": "main",
+    "fix/issue-72-state-adaptive-transaction-polling-system-r2": "fix/issue-72-state-adaptive-transaction-polling-system",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-123-feat-web3-real-time-soroban-rpc-event-streaming",
+    "fix/issue-72-state-adaptive-transaction-polling-system",
+    "origin",
+    "feat/issue-123-feat-web3-real-time-soroban-rpc-event-streaming-r2",
+    "fix/issue-72-state-adaptive-transaction-polling-system-r2"
+  ]
+}
